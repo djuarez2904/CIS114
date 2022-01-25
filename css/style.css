@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+/* ******************************************** */
+
+/* index.html css */
+
+body {
+    background-image: url(../img/leio-mclaren-JvQ7Fuajna0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.2em;
+     
+}
+
+/* navbar */
+.navbar
+ {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background: #4c6ca0;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.navbar li a:hover {
+    background: blue;
+    font-size: 15px;
+    text-decoration: underline;
+}
+ 
+/* a {
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    font-size: 15px;
+    text-decoration: underline;
+} */
+
+
+/* primary heading */
+
+.primary-heading{ 
+    color: blue;
+}
+
+/* image */
+
+img {
+    max-width: 30%;
+    height: auto;
+    position: relative;
+}
+
+/* #homeworks {
+    color: blue;
+} */
+
+/* .homework-list { 
+    color: blue;
+    font-weight: bold;
+    list-style: none;
+    background: fuchsia;
+    border: 2px blue solid;
+    border-radius: 20px;
+    padding: 60px;
+    height: 150px;
+    width: 300px;
+    position: relative;
+    top: 10px;
+    cursor: pointer;
+
+    text-align: center;
+    
+    
+    
+} */
+
+
+
+
+#copyright{
+    color: white;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 20px;
+    
+}
+
+/* ******************************************** */
+
+/* hw2.html css */
+
+
+
+#hw2 {
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw2 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+/* ******************************************** */
+
+/* hw3.html css */
+
+#hw3 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw3 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+/* ******************************************** */
+
+/* hw4.html css */
+
+#hw4 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw4 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+/* ******************************************** */
+
+/* hw5.html css */
+
+#hw5 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw5 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+/* ******************************************** */
+
+/* hw6.html css */
+
+#hw6 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw6 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+/* ******************************************** */
+
+/* hw7.html css */
+
+#hw7 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw7 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+/* ******************************************** */
+
+/* hw8.html css */
+
+#hw8 {
+    background-color:orange;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.hw8 {
+
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+/* ******************************************** */
+
